@@ -4,12 +4,12 @@ This repository contains detailed reports and solutions for various  Capture The
 
 ## Table of Contents
 
-- About CTF Writeups
-- CTF Reports
-  - CTF 1 - Conducted by Team222
-  - CTF 2 - Conducted by Team222
-- Future CTF Writeups
-- Tools Used
+- [About CTF Writeups](#about-ctf-writeups)
+- [CTF Reports](#ctf-reports)
+  - [CTF 1 - Conducted by Team222](#ctf-1---conducted-by-team222)
+  - [CTF 2 - Conducted by Team222](#ctf-2---conducted-by-team222)
+- [Future CTF Writeups](#future-ctf-writeups)
+- [Tools Used](#tools-used)
 
 ## About CTF Writeups
 
